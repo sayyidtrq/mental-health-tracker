@@ -25,7 +25,13 @@ SECRET_KEY = 'django-insecure-jt4)uv72r(+w29)iyrx6yggpfuprzi*g^j2x&qlu!*p8czld=x
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["localhost", "127.0.0.1", "menta-health-tracker.herokuapp.com"]
+ALLOWED_HOSTS = [
+    "localhost", 
+    "127.0.0.1", 
+    "sayyid-thariq31-mentalhealthtracker.pbp.cs.ui.ac.id"
+]
+
+
 
 
 # Application definition
